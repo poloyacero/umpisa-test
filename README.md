@@ -1,7 +1,9 @@
 # NextJs - Graphql - Prisma - Mongodb
 
 Add .env file with variables
+
 DATABASE_URL=
+
 NEXT_PUBLIC_URL=http://localhost:3000
 
 In the project directory, you can run:
