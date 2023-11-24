@@ -1,0 +1,31 @@
+.slot {
+    fill: transparent;
+    cursor: pointer;
+}
+
+.inverse {
+    transform: rotate(180deg);
+}
+
+.slot.notFree {
+    cursor: none;
+}
+
+.slot.processing {
+    fill: rgba(215, 190, 105, 0.8);
+    cursor: none;
+}
+
+.slot.free:hover {
+    fill: rgba(60, 179, 113, 0.3);
+}
+
+.reserve {
+    padding: 10px 20px;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.notAvailable {
+    background-color: grey;
+}

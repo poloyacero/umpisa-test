@@ -1,0 +1,2 @@
+# NextJs - Graphql - Prisma - Mongodb
+

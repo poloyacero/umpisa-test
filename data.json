@@ -1,0 +1,199 @@
+[
+    {
+        "id": "1",
+        "name": "Block A Lot 1",
+        "area": "M995 129H105V1694H995V129Z",
+        "isFree": false,
+        "isProcessing": true,
+        "coordinates": {
+            "x": "250",
+            "y": "250"
+        },
+        "unit": {
+            "model": "",
+            "icon": 1,
+            "width": 677,
+            "height": 1307
+        },
+        "isInverse": false
+    },
+    {
+        "id": "2",
+        "name": "Block A Lot 2",
+        "area": "M1931 129H1041V1694H1931V129Z",
+        "isFree": false,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "1150",
+            "y": "250"
+        },
+        "unit": {
+            "model": "",
+            "icon": 1,
+            "width": 677,
+            "height": 1307
+        },
+        "isInverse": false
+    },
+    {
+        "id": "3",
+        "name": "BlockA Lot3",
+        "area": "M2876 129H1976V1694H2876V129Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "2100",
+            "y": "250"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "4",
+        "name": "BlockA Lot4",
+        "area": "M3852 129H2920V1694H3852V129Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "3050",
+            "y": "250"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "5",
+        "name": "BlockA Lot5",
+        "area": "M4789 129H3899V1694H4789V129Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "4000",
+            "y": "250"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "6",
+        "name": "BlockA Lot6",
+        "area": "M5732 129H4832V1694H5732V129Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "4950",
+            "y": "250"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "7",
+        "name": "BlockA Lot7",
+        "area": "M6674 129H5774V1694H6674V129Z",
+        "isFree": false,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": {
+            "model": "",
+            "icon": 2,
+            "width": 735,
+            "height": 1469
+        },
+        "isInverse": false
+    },
+    {
+        "id": "8",
+        "name": "BlockA Lot8",
+        "area": "M995 2308H105V3873H995V2308Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "9",
+        "name": "BlockA Lot9",
+        "area": "M1931 2308H1041V3873H1931V2308Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "10",
+        "name": "BlockA Lot10",
+        "area": "M2871 2308H1981V3873H2871V2308Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "11",
+        "name": "BlockA Lot11",
+        "area": "M3852 2306H2920V3871H3852V2306Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "12",
+        "name": "BlockA Lot12",
+        "area": "M4789 2308H3899V3873H4789V2308Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "13",
+        "name": "BlockA Lot13",
+        "area": "M5727 2308H4837V3873H5727V2308Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": null,
+        "isInverse": false
+    },
+    {
+        "id": "14",
+        "name": "BlockA Lot14",
+        "area": "M6664 2308H5774V3873H6664V2308Z",
+        "isFree": true,
+        "isProcessing": false,
+        "coordinates": {
+            "x": "5900",
+            "y": "150"
+        },
+        "unit": null,
+        "isInverse": false
+    }
+]
